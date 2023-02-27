@@ -1,4 +1,4 @@
-# QR-Code-Generator-and-Printing
+# QR-Code-Generator-and-Printer
 
 ## Description
 This is a module that generates QR codes from text input and prints them without showing a preview page using custom Java action. The QR codes are created server-side and stored in an Image object. The module uses the ZXing library and does not require any external APIs. You can find more information on the ZXing library at https://zxingnet.codeplex.com.
